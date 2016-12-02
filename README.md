@@ -1,4 +1,3 @@
-# meta-azul-zulu-java
 meta-azul-zulu-java
 ===================
 
